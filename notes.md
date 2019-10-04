@@ -22,3 +22,9 @@ Three step commit process
         git add filename.rb
     * Commit the staged files
         git commit -m "Descriptive commit message to myself and others"
+
+How to push and pull
+--------------------
+
+    * git push will push all of the updated code to Git
+    * git pull will update all of the code on a different computer
